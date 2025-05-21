@@ -1,0 +1,9 @@
+# Ignora carpetas de entorno, cache y Git
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.git/
+.vscode/
+*.egg-info/
+data/output/
